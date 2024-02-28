@@ -1,3 +1,13 @@
 body{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 30%;
+    width: 50%;
+    margin: -15% 0 0 -25%;
     background-color: #fff2cc;
+    text-align: center;
+    font-family: "Comic Neue";
+    font-size: 200%;
+
 }
